@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm André</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proandremelo&label=Profile%20views&color=0e75b6&style=flat" alt="proandremelo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proandremelo" alt="proandremelo" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux, RTL, Jest, Docker**
+- 🌱 I’m currently learning **Node, React, Redux, RTL, Jest, Docker, MySQL, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://proandremelo.github.io/](https://proandremelo.github.io/)
 
